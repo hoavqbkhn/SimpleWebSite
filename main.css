@@ -1,0 +1,14 @@
+body {
+    font-family: helvetica;
+    font-size: 25;
+  }
+  
+ul {
+    font-family: Courier;
+    font-size: 14;
+  }
+
+#date{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14;
+}
